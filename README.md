@@ -36,8 +36,7 @@ This project showcases the use of SQL for data exploration and Power BI for buil
 
 ## 📁 Included Files
 - `airline_passenger_satisfaction.sql`: SQL queries for data exploration
-- `Airline_Satisfaction_Dashboard.pbix`: Power BI dashboard file:
-https://app.powerbi.com/view?r=eyJrIjoiMGU0MzhhMmQtYTdlNi00ZTRmLWI3NzQtYTU2MzFiYjhkYWQxIiwidCI6ImQ5NzgxOGUyLTE1ZTgtNDFmOC04NzJmLWFkMDViMjczYjQ5YiIsImMiOjh9
+- `Airline_Satisfaction_Dashboard.pbix`: Explore the interactive Power BI dashboard:👉 https://app.powerbi.com/view?r=eyJrIjoiMGU0MzhhMmQtYTdlNi00ZTRmLWI3NzQtYTU2MzFiYjhkYWQxIiwidCI6ImQ5NzgxOGUyLTE1ZTgtNDFmOC04NzJmLWFkMDViMjczYjQ5YiIsImMiOjh9
 
 ---
 
