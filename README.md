@@ -2,7 +2,7 @@
 
 ---
 
-## ✈️ Airline Passenger Satisfaction - SQL & Power BI Project
+## Airline Passenger Satisfaction - SQL & Power BI Project
 
 A SQL and Power BI-based analysis of airline passenger satisfaction, uncovering key trends by traveler profile, flight characteristics, and service experience.
 
@@ -10,13 +10,13 @@ This project showcases the use of SQL for data exploration and Power BI for buil
 
 ---
 
-## 🛠 Tools & Technologies
+## Tools & Technologies
 - **SQL:** Data exploration, aggregation, window functions, and conditional logic  
 - **Power BI:** Interactive dashboard design, DAX calculations, KPIs, matrix and bar charts
 
 ---
 
-## 📌 Key Features
+## Key Features
 - Passenger demographics analysis (age, class, distance)
 - Delay impact analysis using categorized delay windows
 - Service-level satisfaction ratings (booking, comfort, inflight service)
@@ -28,20 +28,20 @@ This project showcases the use of SQL for data exploration and Power BI for buil
 
 ---
 
-## 📊 Dataset
+## Dataset
 - 16k airline passenger records (simulated survey data)
 - Fields include satisfaction level, age, customer type, flight distance, class, and service ratings
 
 ---
 
-## 📁 Included Files
+## Included Files
 - `airline_passenger_satisfaction.sql`: SQL queries for data exploration
 - `Airline_Satisfaction_Dashboard.pbix`: Explore the interactive Power BI dashboard:👉 https://app.powerbi.com/view?r=eyJrIjoiMGU0MzhhMmQtYTdlNi00ZTRmLWI3NzQtYTU2MzFiYjhkYWQxIiwidCI6ImQ5NzgxOGUyLTE1ZTgtNDFmOC04NzJmLWFkMDViMjczYjQ5YiIsImMiOjh9
 
 ---
 
 
-## ✅ Key Insights
+## Key Insights
 - Passengers aged 40–59 reported higher satisfaction
 - Business Class flyers were more satisfied than Economy
 - Long-haul passengers showed 76% satisfaction
